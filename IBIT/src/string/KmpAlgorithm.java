@@ -1,5 +1,6 @@
 package string;
 
+//KMP Algorithm
 public class KmpAlgorithm {
 	
 	public static int[] computeLpsArray(String pat) {
