@@ -1,1 +1,5 @@
-IBIT/bin/
+#Ignore class file
+/IBIT/bin/
+
+#Ignore .settings file
+/IBIT/.settings
